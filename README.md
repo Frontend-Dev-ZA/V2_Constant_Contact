@@ -22,3 +22,38 @@
 	</tr>
 </table>
 
+## Getting Set Up
+
+- Create a zip of the “job_notifications.php”
+- Activate the plugin
+
+
+## Configuration
+
+- Create the Bearer_tokens and API keys from Constant Contact
+- Get campaign id’s
+
+### Setting up
+
+- Should you wish to test a single campaign change line 195 “json_encode(array("id"=>"1111111111"))“
+
+### HTML Campaign Template: 
+
+-Its JSON, so escape all quote, and remove all white space. 
+-Constant Contact V2 API – char set ISO-8859-1 
+https://community.constantcontact.com/t5/API-Enhancement-Requests/API-connection-does-not-support-UTF-8-charset/td-p/70051
+
+### Workflow
+
+- Find an issue you'd like to help with, or create a new one for the change you'd like to introduce.
+- Fork the repo to your own account
+- Issue pull-requests from your fork to ours
+- Tag the issue you're trying to resolve in your pull-request for some context
+- Make sure the pull-request passed all Travis checks
+- Tag any of the contributors for a review.
+
+## Changelog
+
+- 1,0
+  - Stable version
+
