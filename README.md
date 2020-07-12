@@ -1,4 +1,4 @@
-# V2_Constant_Contact
+# A Custom Notification Service for Wordpress 5.4.2 and Constant Contact API V2
 
 <table width="100%">
 	<tr>
