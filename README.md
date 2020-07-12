@@ -22,6 +22,8 @@
 	</tr>
 </table>
 
+Tags: Constant Contact, Newsletter, Email Marketing, Mailing List, Newsletter, Events, Event Marketing
+
 ## Getting Set Up
 
 - Create a zip of the “job_notifications.php”
