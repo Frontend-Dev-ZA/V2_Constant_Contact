@@ -39,7 +39,7 @@
 
 ### HTML Campaign Template: 
 
--Its JSON, so escape all quote, and remove all white space. 
+-It's JSON, so escape all quotes and remove all white spaces. 
 -Constant Contact V2 API – char set ISO-8859-1 
 https://community.constantcontact.com/t5/API-Enhancement-Requests/API-connection-does-not-support-UTF-8-charset/td-p/70051
 
