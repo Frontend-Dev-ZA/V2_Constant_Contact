@@ -195,7 +195,7 @@ function createEmailCampaign($bearer_token, $name, $jobs) {
             json_encode(array("id"=>"1111111111"))
         ]
     );
-    $ch = curl_init( 'https://api.constantcontact.com/v2/emailmarketing/campaigns?api_key=2fvrcpwy7t3xc5v7k3jyqpbb' );
+    $ch = curl_init( 'https://api.constantcontact.com/v2/emailmarketing/campaigns?api_key=' ); //add your api key
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($emailData));
     curl_setopt( $ch, CURLOPT_HTTPHEADER, array(
         'Content-Type: application/json',
@@ -212,7 +212,7 @@ function createEmailCampaign($bearer_token, $name, $jobs) {
 function sendCampaign($bearer_token, $campaignId) {
     $schedule_time = date('Y-m-d\TH:i:s.Z\Z', strtotime("+30 minutes"));
     $schedule = array("scheduled_date" => $schedule_time);
-    $ch = curl_init( 'https://api.constantcontact.com/v2/emailmarketing/campaigns/'.$campaignId.'/schedules?api_key=2fvrcpwy7t3xc5v7k3jyqpbb' );
+    $ch = curl_init( 'https://api.constantcontact.com/v2/emailmarketing/campaigns/'.$campaignId.'/schedules?api_key=' ); //add your api key
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($schedule));
     curl_setopt( $ch, CURLOPT_HTTPHEADER, array(
         'Content-Type: application/json',
