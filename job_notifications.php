@@ -5,7 +5,7 @@ Plugin URI: https://semeonline.co.za
 Plugin Platform: Wordpress - Version: Stable release: 5.4.2
 Plugin Date: July 2020 - "The Year of Covid-19"
 
-Description: Automate sending of emails to users who have subscribed for a job post daily
+Description: Automate sending of emails to users who have subscribed for a job post
 Author: Nilesh Cara
 Company URI: https://semeonline.co.za
 Version: 1.0
