@@ -8,7 +8,7 @@
 		</td>
 		<td align="right" width="20%">
 			<a href="https://static.ctctcdn.com/lp/images/standard/logos/logo-ctct-color.svg">
-				<img src="https://static.ctctcdn.com/lp/images/standard/logos/logo-ctct-color.svg" alt="Build status">
+				<img src="https://static.ctctcdn.com/lp/images/standard/logos/logo-ctct-color.svg" alt="Constant Contact">
 			</a>
 		</td>
 	</tr>
