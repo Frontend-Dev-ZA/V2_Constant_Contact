@@ -2,7 +2,7 @@
 
 <table width="100%">
 	<tr>
-		<td align="left" width="50">
+		<td align="left" width="50%">
 			<strong>A WordPress Custom Plugin for Constant Contact API V2</strong><br />
 			The use of this plugin is for users of Constant Contact and Wordpress. It was coding during the lockdown of 2020 for a US state, whereby users subscribe for JOBS. If a new job posted by the state, a notification is sent to only the subscribe campaign.    
 		</td>
