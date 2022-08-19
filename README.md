@@ -14,7 +14,7 @@
 	</tr>
 	<tr>
 		<td>
-			A <strong><a href="https://frontend.co.za/">Frontend Dev (Pty)Ltd</a></strong> project. Maintained by <a href="https://github.com/niloc95">Nilesh Cara</a>.
+			A <strong><a href="https://frontend.co.za/">Frontend Dev (Pty)Ltd</a></strong> project. Maintained by <a href="https://github.com/niloc95">Nilo Cara</a>.
 		</td>
 		<td align="center">
 			<img src="https://avatars1.githubusercontent.com/u/36539420?s=460&u=2fcdbd886c17b639862045b24ae31d50dda7e252&v=4" width="100" />
